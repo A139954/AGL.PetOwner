@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.PetOwner.API.Tests", "AGL.PetOwner.API.Tests\AGL.PetOwner.API.Tests.csproj", "{5B37B784-4413-42DC-8E3B-8F3C8ADEBC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.PetOwner.BusinessLogic", "AGL.PetOwner.BusinessLogic\AGL.PetOwner.BusinessLogic.csproj", "{28536534-4393-4874-B049-7C399796CA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.PetOwner.DataAccess", "AGL.PetOwner.DataAccess\AGL.PetOwner.DataAccess.csproj", "{01F44504-CB06-4B84-BF7E-4EE37E51A304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.PetOwner.Utilities", "AGL.PetOwner.Utilities\AGL.PetOwner.Utilities.csproj", "{A84F7024-5F80-43B2-8112-D2FE9B055109}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DB98F8CC-1143-4955-8CFC-5F1BF1191481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.PetOwner.API", "AGL.PetOwner.API\AGL.PetOwner.API.csproj", "{D5AC4D00-DB62-4729-A40A-87122A0BB636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGL.PetOwner.Models", "AGL.PetOwner.Models\AGL.PetOwner.Models.csproj", "{EB77002E-37DE-4834-B66F-D4EC1C1356AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B37B784-4413-42DC-8E3B-8F3C8ADEBC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B37B784-4413-42DC-8E3B-8F3C8ADEBC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B37B784-4413-42DC-8E3B-8F3C8ADEBC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B37B784-4413-42DC-8E3B-8F3C8ADEBC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28536534-4393-4874-B049-7C399796CA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28536534-4393-4874-B049-7C399796CA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28536534-4393-4874-B049-7C399796CA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28536534-4393-4874-B049-7C399796CA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F44504-CB06-4B84-BF7E-4EE37E51A304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F44504-CB06-4B84-BF7E-4EE37E51A304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F44504-CB06-4B84-BF7E-4EE37E51A304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F44504-CB06-4B84-BF7E-4EE37E51A304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84F7024-5F80-43B2-8112-D2FE9B055109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84F7024-5F80-43B2-8112-D2FE9B055109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84F7024-5F80-43B2-8112-D2FE9B055109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84F7024-5F80-43B2-8112-D2FE9B055109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5AC4D00-DB62-4729-A40A-87122A0BB636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AC4D00-DB62-4729-A40A-87122A0BB636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AC4D00-DB62-4729-A40A-87122A0BB636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AC4D00-DB62-4729-A40A-87122A0BB636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB77002E-37DE-4834-B66F-D4EC1C1356AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB77002E-37DE-4834-B66F-D4EC1C1356AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB77002E-37DE-4834-B66F-D4EC1C1356AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB77002E-37DE-4834-B66F-D4EC1C1356AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B37B784-4413-42DC-8E3B-8F3C8ADEBC88} = {DB98F8CC-1143-4955-8CFC-5F1BF1191481}
+	EndGlobalSection
+EndGlobal

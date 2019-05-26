@@ -1,0 +1,7 @@
+\\GLBWI234\Data$\Data\Users\A139954\Desktop\Code Submit\AGL.PetOwner.API\AGL.PetOwner.API\AGL.PetOwner.Common\bin\Debug\AGL.PetOwner.Common.dll
+\\GLBWI234\Data$\Data\Users\A139954\Desktop\Code Submit\AGL.PetOwner.API\AGL.PetOwner.API\AGL.PetOwner.Common\bin\Debug\AGL.PetOwner.Common.pdb
+\\GLBWI234\Data$\Data\Users\A139954\Desktop\Code Submit\AGL.PetOwner.API\AGL.PetOwner.API\AGL.PetOwner.Common\obj\Debug\AGL.PetOwner.Common.dll
+\\GLBWI234\Data$\Data\Users\A139954\Desktop\Code Submit\AGL.PetOwner.API\AGL.PetOwner.API\AGL.PetOwner.Common\obj\Debug\AGL.PetOwner.Common.pdb
+\\GLBWI234\Data$\Data\Users\A139954\Desktop\Code Submit\AGL.PetOwner.API\AGL.PetOwner.API\AGL.PetOwner.Common\bin\Debug\AGL.PetOwner.Common.dll.CodeAnalysisLog.xml
+\\GLBWI234\Data$\Data\Users\A139954\Desktop\Code Submit\AGL.PetOwner.API\AGL.PetOwner.API\AGL.PetOwner.Common\bin\Debug\AGL.PetOwner.Common.dll.lastcodeanalysissucceeded
+\\GLBWI234\Data$\Data\Users\A139954\Desktop\Code Submit\AGL.PetOwner.API\AGL.PetOwner.API\AGL.PetOwner.Common\obj\Debug\AGL.PetOwner.Common.csprojResolveAssemblyReference.cache
