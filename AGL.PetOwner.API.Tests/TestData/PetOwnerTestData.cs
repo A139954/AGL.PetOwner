@@ -92,6 +92,15 @@ namespace AGL.PetOwner.API.Tests.TestData
         {
             return null;
         }
+
+        public List<PetsByOwnerGender> GetMockPetsByOwnerGender()
+        {
+            return new List<PetsByOwnerGender>
+            {
+                new PetsByOwnerGender { OwnerGen = "Male", PetNames = new List<string> { "Garfield", "Jim", "Max", "Tom" } },
+                new PetsByOwnerGender { OwnerGen = "Female", PetNames = new List<string> { "Garfield", "Simba", "Toby" } },
+            };
+        }
         #endregion
 
     }

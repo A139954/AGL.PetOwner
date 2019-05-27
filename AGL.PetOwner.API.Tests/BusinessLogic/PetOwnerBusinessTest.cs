@@ -7,8 +7,13 @@ using AGL.PetOwner.BusinessLogic;
 
 namespace AGL.PetOwner.API.Tests.BusinessLogic
 {
+    
+    
     public class PetOwnerBusinessTest
     {
+
+        public PetOwnerBusinessTest() { }
+
         [Fact]
         public void GetPetsByOwnerGenderNotNull()
         {
