@@ -24,9 +24,9 @@ namespace AGL.PetOwner.API.Tests.Controllers
         {
             // Arrange
             var mockProvider = new PetOwnerTestData();
-            var mockRepository = Substitute.For<PetOwner.BusinessLogic.IPetOwnerService>();
-            mockRepository.GetPetOwnerDetails("cat").Returns(mockProvider.GetMockPetsByOwnerGender());
-            var controller = new PetOwnerController(petOwnerService);
+            var mockService = Substitute.For<PetOwner.BusinessLogic.IPetOwnerService>();
+            mockService.GetPetOwnerDetails("cat").Returns(mockProvider.GetMockPetsByOwnerGender());
+            var controller = new PetOwnerController(mockService);
 
             // Act
             var result = controller.GetPetsByOwnerGender();
